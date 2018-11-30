@@ -1,2 +1,17 @@
 Hello. This is a text document for TestGit project.
 I add more text in this document. You can see it will be added to our GitHub.
+
+//Feature 1.
+#include <iostream>
+#include <cmath>
+using namespace std;
+int main()
+{
+  int number, result;
+  cout << "Enter any number : ";
+  cin >> number;
+  result = pow(number, 1.0/3.0);
+  cout << "\n\Cube root of " << number << " is: " << result;
+}
+//Done Feature 1
+Thank you.
