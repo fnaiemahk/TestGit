@@ -1,1 +1,2 @@
 Hello. This is a text document for TestGit project.
+I add more text in this document. You can see it will be added to our GitHub.
